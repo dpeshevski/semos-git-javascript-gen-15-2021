@@ -1,4 +1,7 @@
-function sayHi() {
-  console.log('Hello World');
-  //pecati 'Hello World' vo console
+const hristijanFunc = (message) => {
+  console.log(message);
 }
+
+const msg = 'Hello World';
+
+console.log(hristijanFunc(msg));

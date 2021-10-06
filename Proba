@@ -8,4 +8,6 @@ body, html {
     background-position: 0 0;
     bottom: 50px;
     cursor: pointer;
-    }
+    margin: 10;
+}
+
